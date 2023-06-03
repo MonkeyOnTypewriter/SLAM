@@ -1,0 +1,28 @@
+This document is a place to share resources for learning about SLAM. Please include a URL and a short description of each resource you add.
+
+# SLAM
+
+- https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf
+  http://robotics.caltech.edu/~jwb/courses/ME132/final/slamtute2.pdf
+  
+  These are part I and II of an overview of classic SLAM techniques. Part I is a good intro to SLAM in general.
+  
+---------------------------------------------------------------------------------------------------------------
+  
+- https://www.mdpi.com/2079-9292/12/9/2006
+
+  This is a literature review of the applications of deep learning to SLAM
+  
+---------------------------------------------------------------------------------------------------------------
+  
+- https://www.gatsby.ucl.ac.uk/~aguez/files/guez-icra10.pdf
+
+  This article discusses how SLAM can be modified to support multiple objectives
+  
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+# POMDP
+
+- https://cs.brown.edu/research/ai/pomdp/tutorial/index.html
+
+  This is an introduction to partially obervable markov desicion processes.
