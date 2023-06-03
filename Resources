@@ -26,3 +26,11 @@ This document is a place to share resources for learning about SLAM. Please incl
 - https://cs.brown.edu/research/ai/pomdp/tutorial/index.html
 
   This is an introduction to partially obervable markov desicion processes.
+  
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+# MISC
+
+- https://link.springer.com/article/10.1007/s10514-017-9615-3
+
+  This article reviews the history of active perception: the idea that robots should actively seek out sensory data
